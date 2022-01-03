@@ -16,7 +16,6 @@ import daniel.lop.io.marvelappstarter.databinding.FragmentSearchCharacterBinding
 import daniel.lop.io.marvelappstarter.ui.adapters.CharacterAdapter
 import daniel.lop.io.marvelappstarter.ui.base.BaseFragment
 import daniel.lop.io.marvelappstarter.ui.state.ResourceState
-import daniel.lop.io.marvelappstarter.util.Constants
 import daniel.lop.io.marvelappstarter.util.Constants.DEFAULT_QUERY
 import daniel.lop.io.marvelappstarter.util.Constants.LAST_SEARCH_QUERY
 import daniel.lop.io.marvelappstarter.util.hide
